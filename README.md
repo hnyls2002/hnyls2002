@@ -6,7 +6,7 @@ I am also an undegraduate student in Shanghai Jiao Tong University, Zhiyuan Coll
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on a toy compiler and a toy riscv32 cpu
-- 🌱 I’m currently learning Architecture/Mathimatical Logic/Scientific Computation
+- 🌱 I’m currently learning Architecture/Mathematical Logic/Scientific Computation
 
 ![hnyls2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnyls2002&show_icons=true&theme=gruvbox)
 
