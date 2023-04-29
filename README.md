@@ -4,7 +4,6 @@ I am hnyls2002, chinese name Liangsheng Yin.
 
 I am also an undegraduate student in Shanghai Jiao Tong University, Zhiyuan College, ACM Honor Class 2021.
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on rCore following rCore-Tutorial...
 - 🌱 I’m currently learning OS/ML/Algorithm...
 
