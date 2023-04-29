@@ -5,10 +5,12 @@ I am hnyls2002, chinese name Liangsheng Yin.
 I am also an undegraduate student in Shanghai Jiao Tong University, Zhiyuan College, ACM Honor Class 2021.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on a toy compiler and a toy riscv32 cpu
-- 🌱 I’m currently learning Architecture/Mathematical Logic/Scientific Computation
+- 🔭 I’m currently working on rCore following rCore-Tutorial...
+- 🌱 I’m currently learning OS/ML/Algorithm...
 
 ![hnyls2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnyls2002&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnyls2002&theme=gruvbox)
 
 <!--
 **hnyls2002/hnyls2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
