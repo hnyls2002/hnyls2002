@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am hnyls2002, chinese name Liangsheng Yin. 
+I am hnyls2002, chinese name Liangsheng Yin（尹良升）. 
 
 I am also an undegraduate student in Shanghai Jiao Tong University, Zhiyuan College, ACM Honor Class 2021.
 
-- 🔭 I’m currently working on rCore following rCore-Tutorial...
-- 🌱 I’m currently learning OS/ML/Algorithm...
+- 🔭 I’m currently working in fields of mlsys/machine learning/distributed system...
+- 🌱 I’m currently learning networking/complexity...
 
 ![hnyls2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnyls2002&show_icons=true&theme=gruvbox)
 
