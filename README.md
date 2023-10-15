@@ -7,9 +7,9 @@ I am also an undegraduate student in Shanghai Jiao Tong University, Zhiyuan Coll
 - 🔭 I’m currently working in fields of mlsys/machine learning/distributed system...
 - 🌱 I’m currently learning networking/complexity...
 
-![hnyls2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnyls2002&show_icons=true&theme=gruvbox)
+![hnyls2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnyls2002&show_icons=true&theme=solarized-light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnyls2002&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnyls2002&theme=solarized-light)
 
 <!--
 **hnyls2002/hnyls2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
