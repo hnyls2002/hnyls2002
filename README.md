@@ -1,15 +1,10 @@
-### Hi there 👋
+### Hi 😝
 
-I am hnyls2002, chinese name Liangsheng Yin（尹良升）. 
+I am hnyls2002, Chinese name Liangsheng Yin（尹良升）. 
 
-I am also an undegraduate student in Shanghai Jiao Tong University, Zhiyuan College, ACM Honor Class 2021.
+I am an undergraduate student in Shanghai Jiao Tong University, ACM Honor Class 2021. 
 
-- 🔭 I’m currently working in fields of mlsys/machine learning/distributed system...
-- 🌱 I’m currently learning networking/complexity...
-
-![hnyls2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnyls2002&show_icons=true&theme=solarized-light)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnyls2002&theme=solarized-light&exclude_repo=TrainTicketSystem,lazy-vimmer,Geometric-Polyhedron-Transformer)
+I have broad interest in machine learning system/distributed system/compiler.
 
 <!--
 **hnyls2002/hnyls2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
