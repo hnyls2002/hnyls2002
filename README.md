@@ -4,9 +4,11 @@ I am Liangsheng Yin, Chinese name 尹良升.
 
 I am an undergraduate student at Shanghai Jiao Tong University, ACM Honor Class 2021. 
 
-I have a broad interest in MLSys / distributed systems / Networking.
+I have a broad interest in Distributed Systems / Networking.
 
+<!--
 To get more information about me, check out my personal website, http://lsyin.me.
+-->
 
 <!--
 **hnyls2002/hnyls2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
