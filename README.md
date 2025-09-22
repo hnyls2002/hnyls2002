@@ -2,9 +2,9 @@
 
 I am Liangsheng Yin, Chinese name 尹良升.
 
-I am an undergraduate student at Shanghai Jiao Tong University, ACM Honor Class 2021. 
+I graducated from SJTU.
 
-I have a broad interest in Distributed Systems / Networking.
+I have a broad interest in the intersection of system design and ML efficiency optimization.
 
 <!--
 To get more information about me, check out my personal website, http://lsyin.me.
